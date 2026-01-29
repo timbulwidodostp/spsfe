@@ -1,4 +1,21 @@
-D 'testex': Executes a statistical test of the exclusion restriction of an instrumental variable (IV) Use testex With STATA 19
+D 'spsfe': Spatial stochastic frontier models with endogeneity in the style of Kutlu et al. (2020) Use spsfe With STATA 19
 D
-F testex.ado
-F testex.sthlp
+F distinct2.ado
+F lspsfe.mlib
+F lxtsfsp.mlib
+F spsfe.ado
+F spsfe.sthlp
+F spsfe_p.ado
+F spsfe_postestimation.sthlp
+F stata.toc
+F xtsfsp.ado
+F xtsfsp.sthlp
+F xtsfspu.ado
+F xtsfspuv.ado
+F xtsfspuv0.ado
+F xtsfspv.ado
+F xtsfspy.ado
+F xtsfspyu.ado
+F xtsfspyuv.ado
+F xtsfspyuv0.ado
+F xtsfspyv.ado
