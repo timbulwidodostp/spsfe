@@ -2,4 +2,4 @@
 1
 2
 3
-p mundlak Executes a statistical test of the exclusion restriction of an instrumental variable (IV) Use testex With STATA 19
+p spsfe Spatial stochastic frontier models with endogeneity in the style of Kutlu et al. (2020) Use spsfe With STATA 19
